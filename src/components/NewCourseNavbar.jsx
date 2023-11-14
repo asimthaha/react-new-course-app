@@ -6,7 +6,7 @@ const NewCourseNavbar = () => {
       <nav class="navbar navbar-expand-lg bg-warning">
         <div class="container-fluid">
           <a class="navbar-brand" href="/">
-            Navbar
+            New Course App
           </a>
           <button
             class="navbar-toggler"
